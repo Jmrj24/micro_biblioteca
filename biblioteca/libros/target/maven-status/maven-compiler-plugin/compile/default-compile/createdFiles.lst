@@ -1,0 +1,10 @@
+com\example\libros\dto\AutoresDTO.class
+com\example\libros\repository\ILibroAPIClient.class
+com\example\libros\model\Autor.class
+com\example\libros\service\LibroService.class
+com\example\libros\dto\LibroDTO.class
+com\example\libros\model\Libro.class
+com\example\libros\service\ILibroService.class
+com\example\libros\controller\LibroController.class
+com\example\libros\repository\ILibroRepository.class
+com\example\libros\LibrosApplication.class
